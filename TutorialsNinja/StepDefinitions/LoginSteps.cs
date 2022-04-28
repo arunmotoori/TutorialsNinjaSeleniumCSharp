@@ -9,7 +9,8 @@ using TechTalk.SpecFlow;
 using TutorialsNinja.Hooks;
 using TutorialsNinja.PageObjects;
 
-//Sample Comment in LoginSteps
+//Sample by Arun Motoori
+//Sample Comment
 
 namespace TutorialsNinja.StepDefinitions
 {
